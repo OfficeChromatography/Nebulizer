@@ -1,0 +1,25 @@
+ID;Bezeichner;Footprint;Number;Bezeichnung
+1;U5;TO-220-3_Vertical;1;L7805
+2;RV1;Potentiometer_Piher_PT-10-V10_Vertical;1;4k7
+3;J1,J2,J3;PhoenixContact_MC_1,5_2-G-3.81_1x02_P3.81mm_Horizontal;3;Conn_01x02_Pin
+4;R2,R3,R1;R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;3;180R
+5;U1,U3,U2;Sx39-1xxxxx;3;SC39-11SRWA
+6;C1;C_Disc_D4.3mm_W1.9mm_P5.00mm;1;220n
+7;R6;R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;1;180r
+8;C3,C6;CP_Radial_D8.0mm_P3.50mm;2;470u
+9;D2;D_DO-41_SOD81_P10.16mm_Horizontal;1;1N4007
+10;R8;R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;1;10k
+11;A1;Arduino_Nano;1;Arduino_Nano_v3.x
+12;R5;R_Axial_DIN0614_L14.3mm_D5.7mm_P20.32mm_Horizontal;1;0r1
+13;J4;BarrelJack_GCT_DCJ200-10-A_Horizontal;1;Barrel_Jack_Switch
+14;Q2;TO-252-2;1;IRFR3410
+15;C5;CP_Radial_D4.0mm_P2.00mm;1;10u
+16;C4;C_Disc_D4.3mm_W1.9mm_P5.00mm;1;100n
+17;Q1;TO-220-3_Vertical;1;IRFI640
+18;C2;C_Disc_D4.3mm_W1.9mm_P5.00mm;1;1n
+19;U4;DIP254P762X432-8;1;MCP1407-E_P
+20;L1;L_Radial_D10.0mm_P5.00mm_Neosid_SD12_style3;1;100u
+21;SW1,SW2;SW_PUSH_6mm_H5mm;2;SW_Push
+22;D1;D_5W_P12.70mm_Horizontal;1;P6KE 220A
+23;R4;R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;1;10r
+24;R7;R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;1;100k
