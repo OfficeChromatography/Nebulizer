@@ -1,4 +1,4 @@
-ID;Bezeichner;Footprint;Number;Bezeichnung
+ID;Identifier;Footprint;Number;Description
 1;U5;TO-220-3_Vertical;1;L7805
 2;RV1;Potentiometer_Piher_PT-10-V10_Vertical;1;4k7
 3;J1,J2,J3;PhoenixContact_MC_1,5_2-G-3.81_1x02_P3.81mm_Horizontal;3;Conn_01x02_Pin
