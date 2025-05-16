@@ -1,0 +1,6 @@
+Hinweis: Platzierungsdatei der Vorderseite (Oberseite): "C:\Users\wschwack\JLUbox\2LabsToGo\Paper_Nebulizer_20x10\Electronics\nebulizer-borad_v3 - Doku_150525\v3 - Doku\nebulizer-top-pos.csv".
+Hinweis: Bauteilmenge: 32.
+Hinweis: Platzierungsdatei der Rückseite (Unterseite): "C:\Users\wschwack\JLUbox\2LabsToGo\Paper_Nebulizer_20x10\Electronics\nebulizer-borad_v3 - Doku_150525\v3 - Doku\nebulizer-bottom-pos.csv".
+Hinweis: Bauteilmenge: 0.
+Hinweis: Gesamtmenge der Bauteile: 32.
+Hinweis: Datei erfolgreich erstellt.
